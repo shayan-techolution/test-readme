@@ -1,0 +1,15 @@
+# Core dependencies
+Flask==3.0.3
+Werkzeug==3.0.2
+Jinja2==3.1.4
+itsdangerous==2.2.0
+click==8.1.7
+
+# For API testing and debugging
+requests==2.32.3
+python-dotenv==1.0.1
+
+# For optional development utilities
+pytest==8.3.3
+flask-cors==4.0.1
+gunicorn==23.0.0
